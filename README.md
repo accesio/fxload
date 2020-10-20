@@ -14,7 +14,7 @@ make
 ```
 
 This will create the fxload command in the build directory . From there 
-you can manually copy it to /usr/bin ( or other location that is in 
+you can manually copy it to /etc/bin/ ( or other location that is in 
 your PATH ).
 
 
